@@ -5,11 +5,11 @@
 	Version: 1.0.1
 	Author: Stepclick
 */
-if( ! class_exists( 'Smashing_Updater' ) ){
+if( ! class_exists( 'Mswoo_Updater' ) ){
 	include_once( plugin_dir_path( __FILE__ ) . 'updater.php' );
 }
 
-$updater = new Smashing_Updater( __FILE__ );
+$updater = new Mswoo_Updater( __FILE__ );
 $updater->set_username( 'mconslayer' );
 $updater->set_repository( 'mswoo' );
 /*
