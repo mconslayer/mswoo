@@ -116,8 +116,8 @@ class Mswoo_Updater {
 				$plugin = array(
 					'name'				=> $this->plugin["Name"],
 					'slug'				=> $this->basename,
-					'requires'					=> '3.4',
-					'tested'						=> '4.4.2',
+					'requires'					=> '5.5.1',
+					'tested'						=> '5.5.1',
 					'rating'						=> '100.0',
 					'num_ratings'				=> '10823',
 					'downloaded'				=> '14249',
