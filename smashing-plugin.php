@@ -2,7 +2,7 @@
 /*
 	Plugin Name: MS Woo
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.0.2
+	Version: 1.0.3
 	Author: Stepclick
 */
 if( ! class_exists( 'Mswoo_Updater' ) ){
